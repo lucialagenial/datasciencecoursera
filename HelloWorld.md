@@ -2,7 +2,9 @@
 title: "HelloWorld.md"
 author: "lucialagenial"
 date: "4/10/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
